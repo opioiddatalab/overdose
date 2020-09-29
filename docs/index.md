@@ -1,4 +1,4 @@
-# Overdose studies of new medication
+# Evaluating differences in overdose between medications
 *Causal epidemiology considerations and solutions for studies evaluating impact of Rx drugs in preventing overdose*
 
 We want to draw legitimate conclusions about what causes overdoses. We use data sources from electronic health records, insurance claims, vital statistics, and elsewhere to answer fundamental questions about the safety of new medications. But we know that these data sources are imperfect, and that not everything is documented in them with certainty.
