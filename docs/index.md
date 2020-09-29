@@ -1,15 +1,18 @@
 # Evaluating differences in overdose between medications
 *Causal epidemiology considerations and solutions for studies evaluating impact of Rx drugs in preventing overdose*
 
-We want to draw legitimate conclusions about what causes overdoses. We use data sources from electronic health records, insurance claims, vital statistics, and elsewhere to answer fundamental questions about the safety of new medications. But we know that these data sources are imperfect, and that not everything is documented in them with certainty.
+This page can be easily accessed via: [go.unc.edu/overdose](https://go.unc.edu/overdose)
 
-*So how do we know whether what we are seeing is real?*
+We want to draw legitimate conclusions about what causes overdoses. We use data sources from electronic health records, insurance claims, vital statistics, and elsewhere to answer fundamental questions about the safety of new opioids. But we know that these data sources are imperfect, and that not everything is documented in them with certainty.
 
-[Detailed study overview](https://www.opioiddata.org/studies/counfounding-opioid-safety-studies/) at OpioidData.org
+*How do we know what we are seeing is real?*
+
+[Detailed study overview](https://www.opioiddata.org/studies/counfounding-opioid-safety-studies/) at the full project site [OpioidData.org](https://www.opioiddata.org)
 
 ## Scope of the Problem
+Watch a [short video overview](https://vimeo.com/456967594) of the methodological problems.
 
-The following methodological issues are being explored by our team. We will update results throughout the project in the table below.
+We will update our progress in the table below.
 
 |Issue|Description|Status & Resources|
 |---|---|---|
@@ -28,3 +31,7 @@ The following methodological issues are being explored by our team. We will upda
 | **Time-varying confounding**  | Since an individual’s risk for misuse of opioids likely changes over time, advanced statistical models may help quantify the importance of time-dependent adjustment.  | **In progress**<br>[Study details](https://www.opioiddata.org/studies/counfounding-opioid-safety-studies/)<br>[DAG](https://github.com/opioiddatalab/DAG/tree/master/docs)  |
  | **Days supply** |In most states, pharmacists calculate by hand the “days’ supply”. There is discretion at the pharmacist level and we would like to find out how consistent and accurate interpretations of doctors’ instructions are.  | *On COVID hold*<br>[Study details](https://www.opioiddata.org/studies/days-supply-validation/)|
 
+## Relevant Documents
+The September 2020 FDA Advisory Committee on OxyContin provides a trove of new data and methods critiques. 
+
+The [full FDA Briefing Document](https://www.fda.gov/media/141914/download) (888 pages!) is tour de force. We [extracted the most relevant sections](https://github.com/opioiddatalab/overdose/blob/master/docs/Briefing-document-highlights.pdf) for this project. The Sponsor's [background material](https://www.fda.gov/media/141916/download) on the study is also illuminating.
