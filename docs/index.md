@@ -7,10 +7,9 @@ We want to draw legitimate conclusions about what causes overdoses. We use data 
 
 [Detailed study overview](https://www.opioiddata.org/studies/counfounding-opioid-safety-studies/) at OpioidData.org
 
-## Technical Overview
-Longitudinal data necessitate accounting for time-varying exposures and confounding to fall within a causal framework. As new ADFs come to market, patients may be switched between ADFs or comparators, creating methodological complications. We are evaluating the relative importance of applying advanced epidemiologic methods in claims-based studies similar to those found in post-marketing requirements. To accomplish this, we will first use claims-linked-mortality-data to ascertain whether ADF patients have different risk profiles than non-ADF opioid patients. Then, we will apply statistical methods to account for time-varying and other forms of confounding.
-
 ## Scope of the Problem
+
+The following methodological issues are being explored by our team. We will update results throughout the project in the table below.
 
 |Issue|Description|Status & Resources|
 |---|---|---|
