@@ -1,5 +1,5 @@
 # Evaluating differences in overdose between medications
-*Causal epidemiology considerations and solutions for studies evaluating impact of Rx drugs in preventing overdose*
+*Causal epidemiology considerations and solutions for studies evaluating impact of new opioids on preventing overdose*
 
 This page can be easily accessed via: [go.unc.edu/overdose](https://go.unc.edu/overdose)
 
@@ -23,7 +23,7 @@ We will update our progress in the table below.
 | **Last dose causality**  | In a recent analysis where the drugs involved in overdose death were not known, scientists assumed that the last dispensed opioid was the one involved in death. | *Planning* <br> [FDA analysis, page 572](https://www.fda.gov/media/141914/download)|
 | **Comparator choice**  | What is the best comparator for an ADF? Is it other medicines with the same active ingredient? Or, would it be better to consider a patient pool of similar patients as the comparator?  | *Under consideration*  |
 | **Heroin**  | Over the last decade, heroin-fentanyl overdose deaths increased as Rx overdose deaths decreased. COVID caused further changes. | *Under consideration*  |
-| **Utilization adjustment**  | There are hidden assumptions of linearity between the amount dispensed and negative outcomes. However, for low volume products this assumption may not hold. | *Under consideration*<br> [Preliminary analysis](https://doi.org/10.1002/pds.4736)|
+| **Utilization adjustment**  | There are hidden assumptions of linearity between the amount dispensed and negative outcomes. However, for low volume products this assumption may not hold. There has been discussion of whether utilization should be a mediator or confounder.  | *Under consideration*<br> [Preliminary analysis](https://doi.org/10.1002/pds.4736)|
 | **Stockpiling**  | Leftover opioid analgesic tablets from previous dispensings are ignored in exposure time calculations, excluding what could have been additional “at risk” exposure time. At the same time, “stockpiled” leftover drug and frequent changes in opioid analgesic regimens create challenges in accurately allocating exposure time, and thus correctly attributing overdose outcomes to a particular dispensed opioid analgesic.  | *Under consideration*<br>[Possible analytic approach](https://doi.org/10.1002/pds.5026)  |
 | **Dose/MME**  | In support of safer opioid prescribing, 90 daily milligrams of morphine equivalents (MME) are considered a putative risk threshold in clinical guidelines and state laws. But, previously hidden calculation variations may inadvertently have unintended consequences. In order to assess this underappreciated concern, we identified variations in daily MME definitions from published literature and digital clinical tools.  | **In progress**<br> [Justification](https://github.com/opioiddatalab/MMEequations/blob/master/docs/MME_initial_explorations.ipynb), [Meta analysis](https://github.com/opioiddatalab/MMEequations/blob/master/MME_meta_analysis.ipynb)  |
 | **Switching between opioids**  | Nearly all ADF-recipients also received non-ADFs. Can cross-over design-thinking be used to extricate the effect of the ADF? Or do we need to consider ADF use in the context of other prescribed medicines?  | *Under consideration*  |
@@ -34,4 +34,4 @@ We will update our progress in the table below.
 ## Relevant Documents
 The September 2020 FDA Advisory Committee on OxyContin provides a trove of new data and methods critiques. 
 
-The [full FDA Briefing Document](https://www.fda.gov/media/141914/download) (888 pages!) is tour de force. We [extracted the most relevant sections](https://github.com/opioiddatalab/overdose/blob/master/docs/Briefing-document-highlights.pdf) for this project. The Sponsor's [background material](https://www.fda.gov/media/141916/download) on the study is also illuminating.
+The [full FDA Briefing Document](https://www.fda.gov/media/141914/download) (888 pages!) is a tour de force. We [extracted and highlighted the most relevant sections](https://github.com/opioiddatalab/overdose/blob/master/docs/Briefing-document-highlights.pdf) for this project. The Sponsor's [background material](https://www.fda.gov/media/141916/download) on the study is also illuminating. We will be posting extracts from detailed sections as we progress.
