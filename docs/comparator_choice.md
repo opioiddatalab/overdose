@@ -24,9 +24,9 @@ Active comparators are drugs (or drug class) that have similar indication and fo
 
 |Class|Ingredient|ER/LA or IR|Form|Documentation|Comments|
 |---|---|---|-----|-----------|-----------|
-|Opioid|Morphine|ER|Tablet, Capsule|NDC|Primary comparator in [OxyContin postmarketing studies](https://www.fda.gov/media/141914/download)<br><br>Stable market share|
-|Opioid|FentanylER||Transdermal Patch|NDC|Primary comparator in [OxyContin postmarketing studies](https://www.fda.gov/media/141914/download)<br><br>Stable market share|<br><br>Consider route of administration|
-|Opioid|Methadone|LA|Tablet, Capsule|NDC|Primary comparator in [OxyContin postmarketing studies](https://www.fda.gov/media/141914/download)<br><br>Stable market share|<br><br>Declining use|
+|Opioid|Morphine|ER|Tablet, Capsule||Primary comparator in [OxyContin postmarketing studies](https://www.fda.gov/media/141914/download)<br><br>Stable market share|
+|Opioid|FentanylER||Transdermal Patch||Primary comparator in [OxyContin postmarketing studies](https://www.fda.gov/media/141914/download)<br><br>Stable market share|<br><br>Consider route of administration|
+|Opioid|Methadone|LA|Tablet, Capsule||Primary comparator in [OxyContin postmarketing studies](https://www.fda.gov/media/141914/download)<br><br>Stable market share|<br><br>Declining use|
 |Opioid|Oxymorphone|ER|Tablet||Secondary comparator in [OxyContin postmarketing studies](https://www.fda.gov/media/141914/download)<br><br>Stable market share|<br><br>Reformulated in 2012, low market share, FDA requested to remove from market in 2017|
 |Opioid|Oxycodone|IR|Tablet||Secondary comparator in [OxyContin postmarketing studies](https://www.fda.gov/media/141914/download)<br><br>Stable market share|<br><br>IR instead of ER, often used to treat acute pain<br><br>Often dispensed with OxyContin|
 |Opioid|Hydromorphone|IR|Tablet||Secondary comparator in [OxyContin postmarketing studies](https://www.fda.gov/media/141914/download)<br><br>Stable market share|<br><br>IR instead of ER, often used to treat acute pain|
