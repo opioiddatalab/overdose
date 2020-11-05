@@ -22,8 +22,8 @@ _____
 
 Active comparators are drugs (or drug class) that have similar indication and formulation as the treatment. Studies with active comparators restrict to patients initating treatment with medications that have similar indications, and thus have less potential for confounding than studies that make use of inactive comparators or studies that use non-initators as the comparison group (D'Arcy et al 2018). 
 
-|Class|Ingredient|ER/LA or IR|Form|Documentation|Comments
-|---|---|---|-----|-----------|
+|Class|Ingredient|ER/LA or IR|Form|Documentation|Comments|
+|---|---|---|-----|-----------|-----------|
 |Opioid|Morphine|ER|Tablet, Capsule|NDC|Primary comparator in [OxyContin postmarketing studies](https://www.fda.gov/media/141914/download)<br><br>Stable market share|
 |Opioid|FentanylER||Transdermal Patch|NDC|Primary comparator in [OxyContin postmarketing studies](https://www.fda.gov/media/141914/download)<br><br>Stable market share|<br><br>Consider route of administration|
 |Opioid|Methadone|LA|Tablet, Capsule|NDC|Primary comparator in [OxyContin postmarketing studies](https://www.fda.gov/media/141914/download)<br><br>Stable market share|<br><br>Declining use|
