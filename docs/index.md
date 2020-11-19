@@ -1,7 +1,7 @@
 # Evaluating differences in overdose between medications
 *Causal epidemiology considerations and solutions for studies evaluating impact of new opioids on preventing overdose*
 
-This page can be easily accessed via: [go.unc.edu/overdose](https://go.unc.edu/overdose)
+This page can be easily accessed via: [go.unc.edu/causal](https://go.unc.edu/causal)
 
 We want to draw legitimate conclusions about what causes overdoses. We use data sources from electronic health records, insurance claims, vital statistics, and elsewhere to answer fundamental questions about the safety of new opioids. But we know that these data sources are imperfect, and that not everything is documented in them with certainty.
 
